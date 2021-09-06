@@ -6,13 +6,13 @@ const Heading = styled.h1`
   color: red;
 `;
 
-const Home = () => (
+const Nosotros = () => (
   <div>
     <Layout>
-      <h1>Inicio de Index</h1>
+      <h1>Nosotros</h1>
     </Layout>
   </div>
 
 )
 
-export default Home;
+export default Nosotros;
